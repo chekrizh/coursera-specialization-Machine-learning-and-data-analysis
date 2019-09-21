@@ -24,6 +24,7 @@
   _Курс об алгоритмах кластеризации данных. Направлен на то, чтобы научить строить матричные разложения и решать задачу тематического моделирования, понижать размерность данных, искать аномалии и визуализировать многомерные данные._  
   Практические задания:  
       *  [Размещение баннеров (кластеризация)](https://github.com/chekrizh/coursera-specialization-Machine-learning-and-data-analysis/blob/master/%D0%9F%D0%BE%D0%B8%D1%81%D0%BA%20%D1%81%D1%82%D1%80%D1%83%D0%BA%D1%82%D1%83%D1%80%D1%8B%20%D0%B2%20%D0%B4%D0%B0%D0%BD%D0%BD%D1%8B%D1%85/CarnivalCruiseLine.ipynb)
+      * [Метод главных компонент](https://github.com/chekrizh/coursera-specialization-Machine-learning-and-data-analysis/blob/master/PCA.ipynb)
   4. Построение выводов по данным
   5. Прикладные задачи анализа данных
   6. Анализ данных: финальный проект
